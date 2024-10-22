@@ -8,3 +8,7 @@ Initial score was low, around 0.5, so instead of testing it, I decided to add in
 Used the classfier again, updating it with the new data as well as reconsiering the hyperparemeters used earlier on.
 
 Final Precision Score: 0.9
+
+
+# Next Steps...
+Learn and Implement time series forecasting and reinforcement learning to predict exact closing price
